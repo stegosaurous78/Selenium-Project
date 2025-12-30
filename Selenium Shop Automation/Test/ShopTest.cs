@@ -6,6 +6,7 @@ using SeleniumShopAutomation.Pages;
 using WebDriverManager;
 using WebDriverManager.DriverConfigs.Impl;
 //done
+//new branch sweta done
 namespace SeleniumShopAutomation.Tests
 {
     public class ShopTests
